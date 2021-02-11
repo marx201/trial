@@ -1,5 +1,5 @@
-#Probetag
-#First Steps
+
+# First Steps
 1. Create a simple java project containing a main method.
 2. Creating a class called Employee.java which has 3 attributes (id, name, jobTitle)
 3. Create a constructor inside Employee.java containing all three attributes
@@ -16,12 +16,12 @@
 12. Add System.out.println(doubleslash) to see the list of employee
 13. Add another Employee and check output of console from #12 again
 
-##More tasks
+# More tasks
 14. Add a method:removeEmployeeFromDoubleslash which can remove an existing employee from doubleslash
 15. Extend employee to have an entryDate
 16. Check output on console to have entryDate
-17. Commit your changes to GIT
-18. Push your changes to GIT
+17. Commit your changes to a GIT-Repo
+18. Push your changes to GIT-Repo
 19. Check your git repo and see changes
 
-#Congrats you have finished...
+# Congrats you have finished...
